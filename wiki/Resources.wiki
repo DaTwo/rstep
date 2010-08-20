@@ -1,0 +1,5 @@
+#Quick links
+
+  * [https://spreadsheets.google.com/ccc?key=0Aj4EMp1g20xCdGI4Qjc0SGkyV1N3VDVFU2J4NGxzNnc&hl=en&authkey=CNrpy6YJ BOM]
+  * [http://code.google.com/p/rstep/source/browse/#svn/trunk Schematic Files]
+  * [http://code.google.com/p/rstep/source/browse/#svn/trunk/firmware/rStep Firmware]
